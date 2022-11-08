@@ -1,11 +1,14 @@
 <p align="center">
 <br>
-![](https://github.com/tudorandrei117/tudorandrei117/blob/main/banner.png)
-</a>
+
+  ![banner](https://user-images.githubusercontent.com/81469736/200694430-7af988e5-2780-4879-bd4c-addc659f30f7.png)
+
+
 
 ## Hello, my name is Tudor
 
 ### I just started studying at 42 Lisboa, and this is my progress so far!
 
-##This is my 42 level!
-[![tburlacu's 42 stats](https://badge.mediaplus.ma/kettlebells/tburlacu?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+This is my 42 level!
+  
+[![Tburlacu's 42 stats](https://badge.mediaplus.ma/starryblue/Tburlacu?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
