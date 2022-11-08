@@ -1,6 +1,6 @@
 <p align="center">
 <br>
-<img src="https://readme-typing-svg.herokuapp.com/?size=25&color=2586F7&center=true&vCenter=true&lines=You+just+landed+on+my+Github,+Welcome!">
+[![MasterHead](your image link)](https://github.com/tudorandrei117)
 </a>
 
 ## Hello, my name is Tudor
