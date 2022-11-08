@@ -1,6 +1,6 @@
 <p align="center">
 <br>
-[![MasterHead](your image link)](https://github.com/tudorandrei117)
+[![MasterHead](https://github.com/tudorandrei117/tudorandrei117/blob/main/banner.png)](https://github.com/tudorandrei117)
 </a>
 
 ## Hello, my name is Tudor
